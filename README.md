@@ -1,4 +1,4 @@
-## Hi there 👋
+## Change made for the Seminar 
 
 <!--
 **FKhan14/FKhan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
