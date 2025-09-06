@@ -15,8 +15,11 @@ I’m an aspiring software engineer and data scientist, passionate about buildin
 🛠️ Skills
 
 Languages: Python (Pandas, Matplotlib, Plotly, NumPy), Java, JavaScript, SQL, TypeScript
+
 Frameworks & Tools: Node.js, Vue, Express.js, Docker, PyTorch, TensorFlow, Kubernetes, Git
+
 Machine Learning: Decision Trees, Random Forest, XGBoost, Neural Networks, Regression, CNNs
+
 Other: Financial Accounting, Data Science, Object-Oriented Design
 
 🌟 Featured Projects
