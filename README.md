@@ -1,4 +1,5 @@
 51 lines · 2 KB
+
 Hi, I'm Fahd Khan 👋
 
 Computer Science & Finance Student @ Northeastern University
@@ -17,6 +18,7 @@ Languages: Python (Pandas, Matplotlib, Plotly, NumPy), Java, JavaScript, SQL, Ty
 Frameworks & Tools: Node.js, Vue, Express.js, Docker, PyTorch, TensorFlow, Kubernetes, Git
 Machine Learning: Decision Trees, Random Forest, XGBoost, Neural Networks, Regression, CNNs
 Other: Financial Accounting, Data Science, Object-Oriented Design
+
 🌟 Featured Projects
 
     Tech Salary Prediction Model:
