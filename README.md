@@ -34,7 +34,9 @@ Other: Financial Accounting, Data Science, Object-Oriented Design
     Leveraging computer vision for real-world image analysis.
 
 📫 Connect with Me
+
 Email: khan.fah@northeastern.edu
-GitHub: FKhan14
-LinkedIn: linkedin.com/in/fahd-khan (update if needed)
+
+LinkedIn: linkedin.com/in/fahd-khan
+
 Kaggle: kaggle.com/fahdkhan 
